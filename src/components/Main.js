@@ -16,7 +16,7 @@ export const Main = () => {
 
   return (
     <div className="main">
-      <h1>Book innformation </h1>
+      <h1>Book information </h1>
       {list.map((item) => (
         <div className="list">
           <ul>ID: {item.bookID}</ul>
