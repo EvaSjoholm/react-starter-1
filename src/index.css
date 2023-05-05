@@ -15,15 +15,8 @@ code {
 .wrapper {
   /* width: 100vw;
   height: 100vh; */
-  padding: 10px;
-  border:10px solid;border-image: linear-gradient(0deg, rgba(245, 245, 220, 1) 35%, rgba(216, 249, 255, 1) 65%, rgba(255, 235, 248, 1) 100%) 10% round; 
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-.searchWrapper {
+  padding: 30px;
+  border:30px solid;border-image: linear-gradient(0deg, rgba(245, 245, 220, 1) 35%, rgba(216, 249, 255, 1) 65%, rgba(255, 235, 248, 1) 100%) 10% round; 
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -67,6 +60,7 @@ color: rgb(181, 142, 194);
   background-color: rgb(181, 142, 194);
   color: white;
   gap: 50px;
+  text-decoration: none;
 }
 
 .convertingColorsLinearBorderGradient{ 
