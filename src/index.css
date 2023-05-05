@@ -13,8 +13,6 @@ code {
 }
 
 .wrapper {
-  /* width: 100vw;
-  height: 100vh; */
   padding: 30px;
   border:30px solid;border-image: linear-gradient(0deg, rgba(245, 245, 220, 1) 35%, rgba(216, 249, 255, 1) 65%, rgba(255, 235, 248, 1) 100%) 10% round; 
   display: flex;
